@@ -51,10 +51,10 @@
 
 ## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karri-vijay&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karri-vijay&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karri-vijay&layout=compact&theme=tokyonight" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VijayGit-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VijayGit-code&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayGit-code&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -91,8 +91,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:karrivijay@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vijay-karri-0961382a6/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](vijaykarri220910125@gmail.com)
 
 ---
 
